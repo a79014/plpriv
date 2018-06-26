@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE note SYSTEM "Note.dtd">
+<x>
+	<y>
+		<w>
+			text between lines
+		</w>
+		<klong>
+		</klong>
+		<j> text between open close tag </j><s>this tag is in the same line</s>
+		<z/>
+	</y>
+</x>
+

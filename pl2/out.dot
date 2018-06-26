@@ -1,0 +1,364 @@
+strict digraph g {
+
+
+
+
+foto -> quando
+
+foto -> quem
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> quando
+
+foto -> quem
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quem
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+fotos -> foto
+
+
+foto -> quem
+
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> quem
+
+foto -> onde
+
+foto -> quando
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+foto -> facto
+
+
+foto -> legenda
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+fotos -> foto
+
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+fotos -> foto
+
+
+
+foto -> quem
+
+foto -> quando
+
+fotos -> foto
+
+
+foto -> quem
+
+foto -> quando
+
+fotos -> foto
+
+
+foto -> quem
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> quem
+
+foto -> quando
+
+fotos -> foto
+
+
+foto -> quem
+
+foto -> quando
+
+fotos -> foto
+
+
+foto -> quem
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> quem
+
+foto -> quando
+
+fotos -> foto
+
+
+foto -> quem
+
+fotos -> foto
+
+
+foto -> quem
+
+fotos -> foto
+
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+foto -> facto
+
+fotos -> foto
+
+
+
+foto -> quando
+
+foto -> quem
+
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quando
+
+foto -> quem
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+
+foto -> facto
+
+fotos -> foto
+
+
+foto -> onde
+
+foto -> quem
+
+foto -> quando
+
+foto -> legenda
+
+fotos -> foto
+
+
+foto -> quem
+
+foto -> quando
+
+foto -> onde
+
+fotos -> foto
+
+
+}
