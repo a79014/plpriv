@@ -1,6 +1,6 @@
 FLEX program to turn an XML file into a Dot diagram
 
-After running the program a documental tree is generated qith the structure of the elements in the XML file.
+After running the program a documental tree is generated with the structure of the elements in the XML file.
 
 Example of a generated dot file:
 
